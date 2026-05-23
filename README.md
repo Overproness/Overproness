@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Whatsapp Clone using MERN Stack with MUI**
+ I’m currently working on **a RUST based HFT System**
  
- 🌱 I’m currently learning **Docker, TypeScript and GraphQL**
+ I’m currently learning **Orchestration, and GraphQL**
 
-💬 Ask me about **React, Express, Wordpress... or anything.**
+Ask me about **React, Blockchain, or FPS Games.**
 
-⚡ My hobbies are **Trading & Playing FPS Games**
+My hobbies include **Building a DIY 3D Printer & Gaming**
 
  </div>
 
